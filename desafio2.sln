@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "desafio2", "desafio2\desafio2.csproj", "{115C5B66-107E-4BE7-B529-B921F71CB4BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "desafio3", "desafio3\desafio3.csproj", "{27161F3E-981E-45D9-9F49-BE05CF7BA379}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "desafio4", "desafio4\desafio4.csproj", "{22049498-2040-4816-B8F7-A40F4CCAFB72}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{115C5B66-107E-4BE7-B529-B921F71CB4BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{115C5B66-107E-4BE7-B529-B921F71CB4BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{115C5B66-107E-4BE7-B529-B921F71CB4BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{115C5B66-107E-4BE7-B529-B921F71CB4BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27161F3E-981E-45D9-9F49-BE05CF7BA379}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27161F3E-981E-45D9-9F49-BE05CF7BA379}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27161F3E-981E-45D9-9F49-BE05CF7BA379}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27161F3E-981E-45D9-9F49-BE05CF7BA379}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22049498-2040-4816-B8F7-A40F4CCAFB72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22049498-2040-4816-B8F7-A40F4CCAFB72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22049498-2040-4816-B8F7-A40F4CCAFB72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22049498-2040-4816-B8F7-A40F4CCAFB72}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BDD6D11D-0CFC-4DC6-BE2C-C2551CE7C900}
+	EndGlobalSection
+EndGlobal
