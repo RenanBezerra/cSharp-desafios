@@ -7,6 +7,8 @@ namespace desafio4
     interface Imposto
     {
         public double calculaImposto();
+        
+        
 
     }
 }

@@ -42,8 +42,9 @@ namespace desafio3
         public void status()
         {
             base.status();
-            Console.WriteLine("Carga: " + this.carga);
-            Console.WriteLine ("Eixos: " + this.eixos);
+            Console.WriteLine("Carga: " + this.carga +
+                "\nEixos: " + this.eixos);
+           
         }
 
 

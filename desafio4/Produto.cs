@@ -6,18 +6,22 @@ namespace desafio4
 {
      abstract class Produto
     {
-        //atributos	
-        protected String nome { get; set; }
-        protected Double preco { get; set; }
-        protected int qtd { get; set; }
+        protected String nome;
+        protected double preco;
+        protected int qtd;
+
+        //atributos	getters e setters
+        public String Nome { get; set; }
+        public Double Preco { get; set; }
+        public int Qtd { get; set; }
         
         
         //construtor
-        public Produto(string nome, double preco, int qtd)
+        public Produto(String nome, Double preco, int qtd)
         {
-            this.nome = nome;
-            this.preco = preco;
-            this.qtd = qtd;
+            this.Nome = nome;
+            this.Preco = preco;
+            this.Qtd = qtd;
         }
 
         public Produto()

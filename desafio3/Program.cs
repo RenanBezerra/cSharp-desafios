@@ -6,7 +6,6 @@ namespace desafio3
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
 			Carro c1 = new Carro();
 			Carro c2 = new Carro("Fit", "Honda", "efr4987", "cinza", 10000, false, 40, 0, 40.9, 4, 2017);
 			Aviao a1 = new Aviao();
@@ -15,7 +14,7 @@ namespace desafio3
 			Caminhao ca2 = new Caminhao("S10", "Ford", "ret5421", "vermelho", 1000000, false, 60, 0, 350000, 4500, 6);
 			Console.WriteLine("-------------------------------");
 			c1.abastecer(40);
-			a1.abastecer("40");
+			a1.abastecer(40);
 			ca1.abastecer(43.4f);
 			c2.ligar();
 			c2.status();
